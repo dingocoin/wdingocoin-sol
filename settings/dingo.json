@@ -1,0 +1,19 @@
+{
+  "changeAddress": "9uXqhyEf77URSSa9vBN1uMSaB2CKH3yVBi",
+  "changeConfirmations": 100,
+  "depositConfirmations": 120,
+  "taxPayoutAddresses": [
+    "D8xWYjX7zy3HyvdGrauHy1DdLe7sML51uG",
+    "DRkCnvWDPQDXRCVLmgWTJTvRcSju6yJwzx",
+    "DMb82VSRGA6vEWkwFKdutSGs7xipsBhCJ4",
+    "DJ2HbxgHaktGtsrwFCzoZfts4i4bAha3oN",
+    "DHBj52iiQZkgPYK59PzXLEDM2gmRgTkvjU",
+    "DL8jBtJmobLUQ2NaiE1kHwUCxSCTDvexxX",
+    "D7Zrb9PLkvXBGKvZqY3SPqF8VB5LsWYpPz",
+    "DRkCnvWDPQDXRCVLmgWTJTvRcSju6yJwzx",
+    "DMjyNAsAPXNYynTJ7ggSJRPErPzsMNCwQp",
+    "DPp332rgD4U1A6xZuC6f5godnQFrRdXaLL",
+    "DHBj52iiQZkgPYK59PzXLEDM2gmRgTkvjU"
+  ],
+  "syncDelayThreshold": 15
+}

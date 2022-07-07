@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+settings0
+settings1
+settings2
+.cli_history
+*.swp
+*.un~
+log.txt
+settings/private.DO_NOT_SHARE_THIS.json
